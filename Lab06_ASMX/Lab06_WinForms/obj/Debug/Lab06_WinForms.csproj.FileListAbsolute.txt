@@ -1,0 +1,20 @@
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\bin\Debug\Lab06_WinForms.exe.config
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\bin\Debug\Lab06_WinForms.exe
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\bin\Debug\Lab06_WinForms.pdb
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.csprojAssemblyReference.cache
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.Form1.resources
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.Properties.Resources.resources
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.csproj.GenerateResource.cache
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.csproj.CoreCompileInputs.cache
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.exe
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\bin\Debug\Lab06_WinForms.exe.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\bin\Debug\Lab06_WinForms.exe
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\bin\Debug\Lab06_WinForms.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.csprojAssemblyReference.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.Form1.resources
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.Properties.Resources.resources
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.csproj.GenerateResource.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.csproj.CoreCompileInputs.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.exe
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_ASMX\Lab06_WinForms\obj\Debug\Lab06_WinForms.pdb

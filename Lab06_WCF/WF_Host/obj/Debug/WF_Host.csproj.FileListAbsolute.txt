@@ -1,0 +1,39 @@
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\obj\Debug\WF_Host.Properties.Resources.resources
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\bin\Debug\WF_Host.exe.config
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\bin\Debug\WF_Host.exe
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\bin\Debug\WF_Host.pdb
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\bin\Debug\WcfServiceLibraryX.dll
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\bin\Debug\WcfServiceLibraryX.pdb
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\bin\Debug\WcfServiceLibraryX.dll.config
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csproj.CopyComplete
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\obj\Debug\WF_Host.exe
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Host\obj\Debug\WF_Host.pdb
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\bin\Debug\WF_Host.exe.config
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\bin\Debug\WF_Host.exe
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\bin\Debug\WF_Host.pdb
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\bin\Debug\WcfServiceLibraryX.dll
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\bin\Debug\WcfServiceLibraryX.pdb
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\bin\Debug\WcfServiceLibraryX.dll.config
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csprojAssemblyReference.cache
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\obj\Debug\WF_Host.Properties.Resources.resources
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csproj.GenerateResource.cache
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csproj.CoreCompileInputs.cache
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csproj.CopyComplete
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\obj\Debug\WF_Host.exe
+D:\study3course\6thsem\PIS\Labs\ASP.NET\Lab06_WCF\WF_Host\obj\Debug\WF_Host.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\bin\Debug\WF_Host.exe.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\bin\Debug\WF_Host.exe
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\bin\Debug\WF_Host.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\bin\Debug\WcfServiceLibraryX.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\bin\Debug\WcfServiceLibraryX.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\bin\Debug\WcfServiceLibraryX.dll.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csprojAssemblyReference.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\obj\Debug\WF_Host.Properties.Resources.resources
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csproj.GenerateResource.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csproj.CoreCompileInputs.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\obj\Debug\WF_Host.csproj.CopyComplete
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\obj\Debug\WF_Host.exe
+D:\6sem\Программирование интернет-серверов\Лабы\Lab06_WCF\WF_Host\obj\Debug\WF_Host.pdb

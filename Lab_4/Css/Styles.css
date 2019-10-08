@@ -1,0 +1,15 @@
+﻿
+
+.button {
+    font-weight: bold;
+    font-size: large;
+    background-color: cadetblue;
+    width: 100px;
+    height: 50px;
+    font-family: Impact;
+}
+
+.text{
+font-size: 14px;
+color: blueviolet;
+}

@@ -1,0 +1,19 @@
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\инет-сервера\Лабораторные работы\Лабораторная работа 03_ЭлементыУправления\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\инет-сервера\Лабораторные работы\Лабораторная работа 03_ЭлементыУправления\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\инет-сервера\Лабораторные работы\Лабораторная работа 03_ЭлементыУправления\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\инет-сервера\Лабораторные работы\Лабораторная работа 03_ЭлементыУправления\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\инет-сервера\Лабораторные работы\Лабораторная работа 03_ЭлементыУправления\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\инет-сервера\Лабораторные работы\Лабораторная работа 03_ЭлементыУправления\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\инет-сервера\Лабораторные работы\Лабораторная работа 03_ЭлементыУправления\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\инет-сервера\Лабораторные работы\Лабораторная работа 03_ЭлементыУправления\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\инет-сервера\Лабораторные работы\Лабораторная работа 03_ЭлементыУправления\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\bin\WebApplication1.dll.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\bin\WebApplication1.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\bin\WebApplication1.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\obj\Debug\WebApplication1.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3e\WebApplication1\obj\Debug\WebApplication1.pdb

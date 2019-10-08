@@ -1,0 +1,49 @@
+﻿@model  IEnumerable<MVC5_01.Models.PhoneCatalog>
+
+@{ViewBag.Title = "PhoneCatalog"; }
+
+<h2> Телефонная книга</h2>
+<p>@Html.ActionLink("Добавить", "Add")</p>
+<p>@Html.ActionLink("Обновить", "Update")</p>
+<p>@Html.ActionLink("Удалить", "Delete")</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Surname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Middlename)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BDay)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(mItem => item.Surname)
+    </td>
+    <td>
+        @Html.DisplayFor(mItem => item.FirstName)
+    </td>
+    <td>
+        @Html.DisplayFor(mItem => item.Middlename)
+    </td>
+    <td>
+        @Html.DisplayFor(mItem => item.BDay)
+    </td>
+    <td>
+        @Html.DisplayFor(mItem => item.PhoneNumber)
+    </td>
+</tr>
+    }
+</table>
+

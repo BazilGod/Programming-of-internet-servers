@@ -1,0 +1,231 @@
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\PIS_Lab_3B.dll.config
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\PIS_Lab_3B.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\PIS_Lab_3B.pdb
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csc.exe
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csc.exe.config
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csc.rsp
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csi.exe
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csi.exe.config
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csi.rsp
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.AppContext.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Console.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.Compression.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Claims.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.ValueTuple.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\vbc.exe
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\vbc.exe.config
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\vbc.rsp
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\VBCSCompiler.exe
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Antlr3.Runtime.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Newtonsoft.Json.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\System.Web.Optimization.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\WebGrease.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\System.Web.Optimization.xml
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Newtonsoft.Json.xml
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Antlr3.Runtime.pdb
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.csprojAssemblyReference.cache
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.csproj.CoreCompileInputs.cache
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.csproj.CopyComplete
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.dll
+C:\Users\Evgene\source\repos\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.pdb
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\PIS_Lab_3B.dll.config
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\PIS_Lab_3B.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\PIS_Lab_3B.pdb
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csc.exe
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csc.exe.config
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csc.rsp
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csi.exe
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csi.exe.config
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\csi.rsp
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.AppContext.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Collections.Immutable.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Console.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.Compression.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.FileSystem.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.IO.Pipes.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Reflection.Metadata.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.AccessControl.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Claims.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.ValueTuple.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Xml.XPath.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\vbc.exe
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\vbc.exe.config
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\vbc.rsp
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\VBCSCompiler.exe
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\roslyn\VBCSCompiler.exe.config
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Antlr3.Runtime.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\AspNet.ScriptManager.jQuery.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.Web.Infrastructure.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Newtonsoft.Json.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\System.Web.Optimization.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\WebGrease.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\System.Web.Optimization.xml
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Newtonsoft.Json.xml
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Antlr3.Runtime.pdb
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\ru\System.Web.Optimization.resources.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.csprojAssemblyReference.cache
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.csproj.CopyComplete
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.dll
+D:\Документы\Университет\6 семестр\ПИС\PIS_Lab_3B\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\PIS_Lab_3B.dll.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\PIS_Lab_3B.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\PIS_Lab_3B.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\csc.exe
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\csc.exe.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\csc.rsp
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\csi.exe
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\csi.exe.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\csi.rsp
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.Managed.Core.targets
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.AppContext.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Collections.Immutable.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Console.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.IO.Compression.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.IO.FileSystem.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.IO.Pipes.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Reflection.Metadata.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Security.AccessControl.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Security.Claims.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Security.Principal.Windows.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.ValueTuple.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Xml.XmlDocument.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Xml.XPath.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\vbc.exe
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\vbc.exe.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\vbc.rsp
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\VBCSCompiler.exe
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\roslyn\VBCSCompiler.exe.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Antlr3.Runtime.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\AspNet.ScriptManager.bootstrap.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\AspNet.ScriptManager.jQuery.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.ScriptManager.WebForms.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.Web.Infrastructure.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Newtonsoft.Json.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\System.Diagnostics.DiagnosticSource.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\System.Web.Optimization.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\WebGrease.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\System.Web.Optimization.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Newtonsoft.Json.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Antlr3.Runtime.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\System.Diagnostics.DiagnosticSource.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\ru\System.Web.Optimization.resources.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.csprojAssemblyReference.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.csproj.CoreCompileInputs.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.csproj.CopyComplete
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_3b\PIS_Lab_3B\obj\Debug\PIS_Lab_3B.pdb

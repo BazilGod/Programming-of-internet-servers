@@ -1,0 +1,4 @@
+﻿<asp:Button runat="server" ForeColor="green" Width="400" Height="300" Font-Italic="true"/>
+<asp:Button runat="server" SkinID="AnotherButton" ForeColor="orange" Width="150" Height="30" Font-Italic="true"/>
+<asp:Label  runat="server" ForeColor="red" Font-Size="20" Font-Italic="true" ></asp:Label>
+<asp:TextBox  runat="server" ForeColor="blue" Width="100" Height="40"></asp:TextBox>

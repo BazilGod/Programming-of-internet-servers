@@ -1,0 +1,106 @@
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\ApplicationInsights.config
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Css.dll.config
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Css.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Css.pdb
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.Web.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.WindowsServer.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.ApplicationInsights.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.Threading.Tasks.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\System.IO.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\System.Runtime.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\System.Threading.Tasks.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.Web.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.AI.WindowsServer.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.ApplicationInsights.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.Threading.Tasks.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\System.IO.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\System.Runtime.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\bin\System.Threading.Tasks.xml
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\obj\Debug\Css.csproj.App.config
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\obj\Debug\Css.csprojResolveAssemblyReference.cache
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\obj\Debug\Css.dll
+c:\users\msi\documents\visual studio 2015\Projects\Css\Css\obj\Debug\Css.pdb
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\ApplicationInsights.config
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Css.dll.config
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Css.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Css.pdb
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.Agent.Intercept.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.DependencyCollector.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.Web.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.WindowsServer.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.ApplicationInsights.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.Threading.Tasks.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\System.IO.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\System.Runtime.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\System.Threading.Tasks.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.DependencyCollector.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.Web.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.AI.WindowsServer.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.ApplicationInsights.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.Threading.Tasks.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\System.IO.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\System.Runtime.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\bin\System.Threading.Tasks.xml
+D:\6sem\Программирование интернет-серверов\1\Css\Css\obj\Debug\Css.csproj.App.config
+D:\6sem\Программирование интернет-серверов\1\Css\Css\obj\Debug\Css.csprojAssemblyReference.cache
+D:\6sem\Программирование интернет-серверов\1\Css\Css\obj\Debug\Css.csproj.CoreCompileInputs.cache
+D:\6sem\Программирование интернет-серверов\1\Css\Css\obj\Debug\Css.csproj.CopyComplete
+D:\6sem\Программирование интернет-серверов\1\Css\Css\obj\Debug\Css.dll
+D:\6sem\Программирование интернет-серверов\1\Css\Css\obj\Debug\Css.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\ApplicationInsights.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Css.dll.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Css.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Css.pdb
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.Agent.Intercept.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.DependencyCollector.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.Web.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.WindowsServer.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.ApplicationInsights.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.Threading.Tasks.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\System.IO.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\System.Runtime.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\System.Threading.Tasks.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.DependencyCollector.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.Web.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.AI.WindowsServer.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.ApplicationInsights.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.Threading.Tasks.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\System.IO.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\System.Runtime.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\bin\System.Threading.Tasks.xml
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\obj\Debug\Css.csproj.App.config
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\obj\Debug\Css.csprojAssemblyReference.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\obj\Debug\Css.csproj.CoreCompileInputs.cache
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\obj\Debug\Css.csproj.CopyComplete
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\obj\Debug\Css.dll
+D:\6sem\Программирование интернет-серверов\Лабы\Lab_4\Css\obj\Debug\Css.pdb
